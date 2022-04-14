@@ -1,0 +1,22 @@
+{
+  "name": "test_self_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.8.0",
+    "ascii-table": "^0.0.9",
+    "discord-rpc-contructor": "^1.0.4",
+    "discord.js": "^13.6.0",
+    "discord.js-selfbot-v13": "^1.3.7",
+    "distube": "^3.3.3",
+    "libsodium-wrappers": "^0.7.10"
+  }
+}
